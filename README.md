@@ -17,5 +17,3 @@ Critical values are used in ANOVA tests and regression analysis to compare varia
 Used for the chi-squared distribution.
 Commonly used in tests for independence and goodness of fit.
 
-## 5. Normal Distribution Table
-Similar to the Z-table but might show probabilities for the normal distribution without standardization.
